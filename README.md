@@ -4,8 +4,6 @@ Hi 👋 My name is Alejandro Yela
 Biomedical and Software Engineer
 --------------------------------
 
-I am a biomedical engineer with a master's degree in software engineering and computer systems, and more than 3 years of experience.
-
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [andres.alejo.yela@gmail.com](mailto:andres.alejo.yela@gmail.com)
 * 🚀  I'm currently working on [Bi･U Cosmetics e.commerce](http://github.com/AlejoYela/Bi-U-e-commerce.git)
